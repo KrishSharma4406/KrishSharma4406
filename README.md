@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 C++ | JavaScript | TypeScript | Python  
@@ -38,7 +38,7 @@ Manage your passwords safely. designed using Socket.IO + Next.js
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - DSA
 - Backend Optimization
@@ -49,7 +49,7 @@ Manage your passwords safely. designed using Socket.IO + Next.js
 
 ## Connect With Me
 
-krishsharma4406@gmail.com 
+krishsharma4406@gmail.com <br>
 LinkedIn: www.linkedin.com/in/krish-kumar-sharma-77a23231b 
 
 ---
