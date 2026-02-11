@@ -5,7 +5,7 @@
 
 ## About Me
 
-1) 3rd Semester Computer Science Student  
+1) 4rd Semester Computer Science Student  
 2) Passionate about Web Development  
 3) Exploring Artificial Intelligence  
 4) Improving DSA & Problem Solving  
