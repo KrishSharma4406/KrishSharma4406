@@ -5,15 +5,13 @@
 
 ## About Me
 
-1) 4rd Semester Computer Science Student  
+1) 4th Semester Computer Science Student  
 2) Passionate about Web Development  
 3) Exploring Artificial Intelligence  
 4) Improving DSA & Problem Solving  
 5) Goal: Secure a Software Development Internship  
 
 ---
-
-## Tech Stack
 
 ### Languages
 C++ | JavaScript | TypeScript | Python  
@@ -32,7 +30,7 @@ Git | GitHub | Postman | Stripe | VS Code | Razorpay
 Full Stack Restaurant Booking System (React + Node + MongoDB)
 
 🔹 **Password Manager**  
-Manage your passwords safely. designed using Socket.IO + Next.js
+Manage your passwords safely. Designed using ReactJS + MongoDB
 
 
 
